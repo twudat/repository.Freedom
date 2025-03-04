@@ -10,7 +10,7 @@
 			<info compressed="false">https://github.com/twudat/repository.Freedom/raw/main/addons.xml</info>
 			<checksum>https://github.com/twudat/repository.Freedom/raw/main/addons.xml.md5</checksum>
 			<!-- <datadir zip="true">https://github.com/twudat/repository.Freedom/raw/main/zips/</datadir> -->
-			<datadir zip="true">https://github.com/twudat/repository.Freedom/raw/main/zips/repository.freedom</datadir>
+			<datadir zip="true">https://github.com/twudat/repository.Freedom/raw/main/zips/</datadir>
 
 		</dir>
     zips/repository.freedom/repository.freedom-1.00.00.zip

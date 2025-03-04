@@ -157,7 +157,7 @@ if ret == 1:
         # print(onlyfiles)
         for srcfile in filelist:
             shutil.copy(srcfile,tgtdir)
-            msg+='Replaced :\t%s%s\n' % (tgtdir.split(".kodi/")[1],os.path.basename(srcfile))
+            msg+='Patched :\t%s%s\n' % (tgtdir.split(".kodi/")[1],os.path.basename(srcfile))
 
     for tgt in ADDITIONS:
         src = ADDITIONS[tgt]

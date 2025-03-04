@@ -31,7 +31,7 @@ import time
 import shutil
 import xml.etree.ElementTree as ET
 
-KODI_VERSIONS = ["krypton", "leia", "matrix", "nexus","omega", "repo"]
+KODI_VERSIONS = ["krypton", "leia", "matrix", "nexus", "omega" , "addons", 'repo']
 
 # Compatibility with 3.0, 3.1 and 3.2 not supporting u"" literals
 if sys.version < '3':
@@ -72,7 +72,7 @@ class Generator:
         # addon list
         # addons = os.listdir( "." )
         ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
-        print(ROOT_DIR)
+        # print(ROOT_DIR)
         # sys.exit()
         cwd=os.getcwd()
         for release in KODI_VERSIONS :

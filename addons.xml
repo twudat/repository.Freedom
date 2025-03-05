@@ -11,9 +11,9 @@
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Example Kodi Video Plugin</summary>
-  <description lang="en_GB">An example video plugin for Kodi mediacenter.</description>
-  <disclaimer lang="en_GB">Free sample videos are provided by www.vidsplay.com.</disclaimer>
+  <summary lang="en">Freedom 4 XXX-O-DUS Patcher</summary>
+  <description lang="en_GB">The FreeDom Patch patches XXX-O-DUS and sets it free from the pin system and obfuscated code</description>
+  <disclaimer lang="en_GB">All care taken, No responibilty accepted</disclaimer>
   <assets>
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>

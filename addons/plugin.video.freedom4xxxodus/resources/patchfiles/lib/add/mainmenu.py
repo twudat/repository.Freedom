@@ -58,7 +58,7 @@ def mainMenu():
         ('[COLOR cyan]About XXX-O-DUS[/COLOR]', about, 45, 'icon','', True),
         # ('[COLOR cyan]About FREE-XXX-O-DUS Version %s[/COLOR]' % kodi.get_version(), about, 51, 'icon','', True),
         ('[COLOR yellow]View Changelog[/COLOR]', ADDONINFO['changelog'], 17, 'changelog', 'View XXX-O-DUS Changelog.', False),
-        ('[COLOR cyan]About the Freedom Patch[/COLOR]', ADDONINFO['freedom'], 917, 'freedom', 'About the Freedom Patch.', True),
+        ('[COLOR cyan]About the Freedom Patch[/COLOR]', ADDONINFO['freedom'], 917, 'icon', 'About the Freedom Patch.', True),
         # ('[COLOR orange]Check FREE-XXX-O-DUS Health', None, 45, 'icon', 'Versions', True),
         # ('[COLOR magenta]Install CumWithMe ( New Addon )',None,50,'icon','Versions',False),
         ('Search...', None, 29, 'search', 'Search XXX-O-DUS', True),
